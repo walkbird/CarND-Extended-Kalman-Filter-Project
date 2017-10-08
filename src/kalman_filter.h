@@ -2,6 +2,8 @@
 #define KALMAN_FILTER_H_
 #include "Eigen/Dense"
 
+const double pi = 3.1415926535897;
+
 class KalmanFilter {
 public:
 
